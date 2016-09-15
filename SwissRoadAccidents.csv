@@ -1,0 +1,541 @@
+Month;Severity;Location;Year;Accidents
+1;Accidents with Slight Injuries;City;2008;772
+1;Accidents with Slight Injuries;Countryside;2008;260
+1;Accidents with Slight Injuries;Motorway;2008;107
+1;Accidents with Serious Injuries;City;2008;208
+1;Accidents with Serious Injuries;Countryside;2008;69
+1;Accidents with Serious Injuries;Motorway;2008;29
+1;Fatal Accidents;City;2008;12
+1;Fatal Accidents;Countryside;2008;16
+1;Fatal Accidents;Motorway;2008;1
+2;Accidents with Slight Injuries;City;2008;764
+2;Accidents with Slight Injuries;Countryside;2008;268
+2;Accidents with Slight Injuries;Motorway;2008;103
+2;Accidents with Serious Injuries;City;2008;169
+2;Accidents with Serious Injuries;Countryside;2008;76
+2;Accidents with Serious Injuries;Motorway;2008;15
+2;Fatal Accidents;City;2008;7
+2;Fatal Accidents;Countryside;2008;13
+2;Fatal Accidents;Motorway;2008;0
+3;Accidents with Slight Injuries;City;2008;711
+3;Accidents with Slight Injuries;Countryside;2008;294
+3;Accidents with Slight Injuries;Motorway;2008;154
+3;Accidents with Serious Injuries;City;2008;184
+3;Accidents with Serious Injuries;Countryside;2008;92
+3;Accidents with Serious Injuries;Motorway;2008;23
+3;Fatal Accidents;City;2008;9
+3;Fatal Accidents;Countryside;2008;8
+3;Fatal Accidents;Motorway;2008;0
+4;Accidents with Slight Injuries;City;2008;873
+4;Accidents with Slight Injuries;Countryside;2008;285
+4;Accidents with Slight Injuries;Motorway;2008;120
+4;Accidents with Serious Injuries;City;2008;186
+4;Accidents with Serious Injuries;Countryside;2008;94
+4;Accidents with Serious Injuries;Motorway;2008;20
+4;Fatal Accidents;City;2008;8
+4;Fatal Accidents;Countryside;2008;11
+4;Fatal Accidents;Motorway;2008;5
+5;Accidents with Slight Injuries;City;2008;1039
+5;Accidents with Slight Injuries;Countryside;2008;338
+5;Accidents with Slight Injuries;Motorway;2008;120
+5;Accidents with Serious Injuries;City;2008;267
+5;Accidents with Serious Injuries;Countryside;2008;156
+5;Accidents with Serious Injuries;Motorway;2008;12
+5;Fatal Accidents;City;2008;11
+5;Fatal Accidents;Countryside;2008;13
+5;Fatal Accidents;Motorway;2008;3
+6;Accidents with Slight Injuries;City;2008;1134
+6;Accidents with Slight Injuries;Countryside;2008;374
+6;Accidents with Slight Injuries;Motorway;2008;126
+6;Accidents with Serious Injuries;City;2008;286
+6;Accidents with Serious Injuries;Countryside;2008;162
+6;Accidents with Serious Injuries;Motorway;2008;29
+6;Fatal Accidents;City;2008;12
+6;Fatal Accidents;Countryside;2008;24
+6;Fatal Accidents;Motorway;2008;5
+7;Accidents with Slight Injuries;City;2008;984
+7;Accidents with Slight Injuries;Countryside;2008;356
+7;Accidents with Slight Injuries;Motorway;2008;128
+7;Accidents with Serious Injuries;City;2008;280
+7;Accidents with Serious Injuries;Countryside;2008;177
+7;Accidents with Serious Injuries;Motorway;2008;28
+7;Fatal Accidents;City;2008;19
+7;Fatal Accidents;Countryside;2008;22
+7;Fatal Accidents;Motorway;2008;2
+8;Accidents with Slight Injuries;City;2008;999
+8;Accidents with Slight Injuries;Countryside;2008;345
+8;Accidents with Slight Injuries;Motorway;2008;119
+8;Accidents with Serious Injuries;City;2008;261
+8;Accidents with Serious Injuries;Countryside;2008;172
+8;Accidents with Serious Injuries;Motorway;2008;29
+8;Fatal Accidents;City;2008;9
+8;Fatal Accidents;Countryside;2008;19
+8;Fatal Accidents;Motorway;2008;2
+9;Accidents with Slight Injuries;City;2008;986
+9;Accidents with Slight Injuries;Countryside;2008;305
+9;Accidents with Slight Injuries;Motorway;2008;107
+9;Accidents with Serious Injuries;City;2008;239
+9;Accidents with Serious Injuries;Countryside;2008;115
+9;Accidents with Serious Injuries;Motorway;2008;21
+9;Fatal Accidents;City;2008;7
+9;Fatal Accidents;Countryside;2008;15
+9;Fatal Accidents;Motorway;2008;1
+10;Accidents with Slight Injuries;City;2008;1010
+10;Accidents with Slight Injuries;Countryside;2008;310
+10;Accidents with Slight Injuries;Motorway;2008;144
+10;Accidents with Serious Injuries;City;2008;241
+10;Accidents with Serious Injuries;Countryside;2008;124
+10;Accidents with Serious Injuries;Motorway;2008;30
+10;Fatal Accidents;City;2008;10
+10;Fatal Accidents;Countryside;2008;22
+10;Fatal Accidents;Motorway;2008;3
+11;Accidents with Slight Injuries;City;2008;870
+11;Accidents with Slight Injuries;Countryside;2008;272
+11;Accidents with Slight Injuries;Motorway;2008;135
+11;Accidents with Serious Injuries;City;2008;227
+11;Accidents with Serious Injuries;Countryside;2008;91
+11;Accidents with Serious Injuries;Motorway;2008;15
+11;Fatal Accidents;City;2008;12
+11;Fatal Accidents;Countryside;2008;9
+11;Fatal Accidents;Motorway;2008;1
+12;Accidents with Slight Injuries;City;2008;706
+12;Accidents with Slight Injuries;Countryside;2008;295
+12;Accidents with Slight Injuries;Motorway;2008;121
+12;Accidents with Serious Injuries;City;2008;151
+12;Accidents with Serious Injuries;Countryside;2008;70
+12;Accidents with Serious Injuries;Motorway;2008;18
+12;Fatal Accidents;City;2008;14
+12;Fatal Accidents;Countryside;2008;8
+12;Fatal Accidents;Motorway;2008;3
+1;Accidents with Slight Injuries;City;2009;634
+1;Accidents with Slight Injuries;Countryside;2009;241
+1;Accidents with Slight Injuries;Motorway;2009;117
+1;Accidents with Serious Injuries;City;2009;140
+1;Accidents with Serious Injuries;Countryside;2009;64
+1;Accidents with Serious Injuries;Motorway;2009;11
+1;Fatal Accidents;City;2009;8
+1;Fatal Accidents;Countryside;2009;8
+1;Fatal Accidents;Motorway;2009;1
+2;Accidents with Slight Injuries;City;2009;662
+2;Accidents with Slight Injuries;Countryside;2009;266
+2;Accidents with Slight Injuries;Motorway;2009;141
+2;Accidents with Serious Injuries;City;2009;139
+2;Accidents with Serious Injuries;Countryside;2009;79
+2;Accidents with Serious Injuries;Motorway;2009;15
+2;Fatal Accidents;City;2009;7
+2;Fatal Accidents;Countryside;2009;8
+2;Fatal Accidents;Motorway;2009;2
+3;Accidents with Slight Injuries;City;2009;723
+3;Accidents with Slight Injuries;Countryside;2009;240
+3;Accidents with Slight Injuries;Motorway;2009;129
+3;Accidents with Serious Injuries;City;2009;171
+3;Accidents with Serious Injuries;Countryside;2009;67
+3;Accidents with Serious Injuries;Motorway;2009;15
+3;Fatal Accidents;City;2009;6
+3;Fatal Accidents;Countryside;2009;7
+3;Fatal Accidents;Motorway;2009;1
+4;Accidents with Slight Injuries;City;2009;906
+4;Accidents with Slight Injuries;Countryside;2009;258
+4;Accidents with Slight Injuries;Motorway;2009;112
+4;Accidents with Serious Injuries;City;2009;229
+4;Accidents with Serious Injuries;Countryside;2009;116
+4;Accidents with Serious Injuries;Motorway;2009;19
+4;Fatal Accidents;City;2009;10
+4;Fatal Accidents;Countryside;2009;15
+4;Fatal Accidents;Motorway;2009;1
+5;Accidents with Slight Injuries;City;2009;1076
+5;Accidents with Slight Injuries;Countryside;2009;355
+5;Accidents with Slight Injuries;Motorway;2009;131
+5;Accidents with Serious Injuries;City;2009;282
+5;Accidents with Serious Injuries;Countryside;2009;171
+5;Accidents with Serious Injuries;Motorway;2009;21
+5;Fatal Accidents;City;2009;16
+5;Fatal Accidents;Countryside;2009;15
+5;Fatal Accidents;Motorway;2009;7
+6;Accidents with Slight Injuries;City;2009;1079
+6;Accidents with Slight Injuries;Countryside;2009;364
+6;Accidents with Slight Injuries;Motorway;2009;137
+6;Accidents with Serious Injuries;City;2009;265
+6;Accidents with Serious Injuries;Countryside;2009;141
+6;Accidents with Serious Injuries;Motorway;2009;14
+6;Fatal Accidents;City;2009;13
+6;Fatal Accidents;Countryside;2009;18
+6;Fatal Accidents;Motorway;2009;4
+7;Accidents with Slight Injuries;City;2009;912
+7;Accidents with Slight Injuries;Countryside;2009;355
+7;Accidents with Slight Injuries;Motorway;2009;152
+7;Accidents with Serious Injuries;City;2009;244
+7;Accidents with Serious Injuries;Countryside;2009;156
+7;Accidents with Serious Injuries;Motorway;2009;23
+7;Fatal Accidents;City;2009;9
+7;Fatal Accidents;Countryside;2009;23
+7;Fatal Accidents;Motorway;2009;2
+8;Accidents with Slight Injuries;City;2009;1007
+8;Accidents with Slight Injuries;Countryside;2009;370
+8;Accidents with Slight Injuries;Motorway;2009;142
+8;Accidents with Serious Injuries;City;2009;306
+8;Accidents with Serious Injuries;Countryside;2009;209
+8;Accidents with Serious Injuries;Motorway;2009;24
+8;Fatal Accidents;City;2009;15
+8;Fatal Accidents;Countryside;2009;20
+8;Fatal Accidents;Motorway;2009;2
+9;Accidents with Slight Injuries;City;2009;1021
+9;Accidents with Slight Injuries;Countryside;2009;342
+9;Accidents with Slight Injuries;Motorway;2009;152
+9;Accidents with Serious Injuries;City;2009;267
+9;Accidents with Serious Injuries;Countryside;2009;129
+9;Accidents with Serious Injuries;Motorway;2009;20
+9;Fatal Accidents;City;2009;12
+9;Fatal Accidents;Countryside;2009;23
+9;Fatal Accidents;Motorway;2009;4
+10;Accidents with Slight Injuries;City;2009;900
+10;Accidents with Slight Injuries;Countryside;2009;320
+10;Accidents with Slight Injuries;Motorway;2009;155
+10;Accidents with Serious Injuries;City;2009;235
+10;Accidents with Serious Injuries;Countryside;2009;136
+10;Accidents with Serious Injuries;Motorway;2009;24
+10;Fatal Accidents;City;2009;8
+10;Fatal Accidents;Countryside;2009;14
+10;Fatal Accidents;Motorway;2009;1
+11;Accidents with Slight Injuries;City;2009;979
+11;Accidents with Slight Injuries;Countryside;2009;266
+11;Accidents with Slight Injuries;Motorway;2009;139
+11;Accidents with Serious Injuries;City;2009;228
+11;Accidents with Serious Injuries;Countryside;2009;74
+11;Accidents with Serious Injuries;Motorway;2009;17
+11;Fatal Accidents;City;2009;15
+11;Fatal Accidents;Countryside;2009;14
+11;Fatal Accidents;Motorway;2009;3
+12;Accidents with Slight Injuries;City;2009;635
+12;Accidents with Slight Injuries;Countryside;2009;288
+12;Accidents with Slight Injuries;Motorway;2009;128
+12;Accidents with Serious Injuries;City;2009;199
+12;Accidents with Serious Injuries;Countryside;2009;74
+12;Accidents with Serious Injuries;Motorway;2009;13
+12;Fatal Accidents;City;2009;14
+12;Fatal Accidents;Countryside;2009;5
+12;Fatal Accidents;Motorway;2009;4
+1;Accidents with Slight Injuries;City;2010;632
+1;Accidents with Slight Injuries;Countryside;2010;321
+1;Accidents with Slight Injuries;Motorway;2010;152
+1;Accidents with Serious Injuries;City;2010;118
+1;Accidents with Serious Injuries;Countryside;2010;80
+1;Accidents with Serious Injuries;Motorway;2010;18
+1;Fatal Accidents;City;2010;5
+1;Fatal Accidents;Countryside;2010;12
+1;Fatal Accidents;Motorway;2010;1
+2;Accidents with Slight Injuries;City;2010;555
+2;Accidents with Slight Injuries;Countryside;2010;237
+2;Accidents with Slight Injuries;Motorway;2010;110
+2;Accidents with Serious Injuries;City;2010;118
+2;Accidents with Serious Injuries;Countryside;2010;52
+2;Accidents with Serious Injuries;Motorway;2010;14
+2;Fatal Accidents;City;2010;6
+2;Fatal Accidents;Countryside;2010;12
+2;Fatal Accidents;Motorway;2010;2
+3;Accidents with Slight Injuries;City;2010;784
+3;Accidents with Slight Injuries;Countryside;2010;247
+3;Accidents with Slight Injuries;Motorway;2010;158
+3;Accidents with Serious Injuries;City;2010;182
+3;Accidents with Serious Injuries;Countryside;2010;77
+3;Accidents with Serious Injuries;Motorway;2010;27
+3;Fatal Accidents;City;2010;7
+3;Fatal Accidents;Countryside;2010;20
+3;Fatal Accidents;Motorway;2010;1
+4;Accidents with Slight Injuries;City;2010;849
+4;Accidents with Slight Injuries;Countryside;2010;272
+4;Accidents with Slight Injuries;Motorway;2010;123
+4;Accidents with Serious Injuries;City;2010;249
+4;Accidents with Serious Injuries;Countryside;2010;99
+4;Accidents with Serious Injuries;Motorway;2010;19
+4;Fatal Accidents;City;2010;15
+4;Fatal Accidents;Countryside;2010;14
+4;Fatal Accidents;Motorway;2010;1
+5;Accidents with Slight Injuries;City;2010;823
+5;Accidents with Slight Injuries;Countryside;2010;276
+5;Accidents with Slight Injuries;Motorway;2010;120
+5;Accidents with Serious Injuries;City;2010;203
+5;Accidents with Serious Injuries;Countryside;2010;85
+5;Accidents with Serious Injuries;Motorway;2010;23
+5;Fatal Accidents;City;2010;12
+5;Fatal Accidents;Countryside;2010;11
+5;Fatal Accidents;Motorway;2010;1
+6;Accidents with Slight Injuries;City;2010;1048
+6;Accidents with Slight Injuries;Countryside;2010;357
+6;Accidents with Slight Injuries;Motorway;2010;135
+6;Accidents with Serious Injuries;City;2010;280
+6;Accidents with Serious Injuries;Countryside;2010;170
+6;Accidents with Serious Injuries;Motorway;2010;19
+6;Fatal Accidents;City;2010;14
+6;Fatal Accidents;Countryside;2010;18
+6;Fatal Accidents;Motorway;2010;5
+7;Accidents with Slight Injuries;City;2010;939
+7;Accidents with Slight Injuries;Countryside;2010;372
+7;Accidents with Slight Injuries;Motorway;2010;142
+7;Accidents with Serious Injuries;City;2010;263
+7;Accidents with Serious Injuries;Countryside;2010;191
+7;Accidents with Serious Injuries;Motorway;2010;27
+7;Fatal Accidents;City;2010;8
+7;Fatal Accidents;Countryside;2010;16
+7;Fatal Accidents;Motorway;2010;3
+8;Accidents with Slight Injuries;City;2010;903
+8;Accidents with Slight Injuries;Countryside;2010;336
+8;Accidents with Slight Injuries;Motorway;2010;129
+8;Accidents with Serious Injuries;City;2010;218
+8;Accidents with Serious Injuries;Countryside;2010;152
+8;Accidents with Serious Injuries;Motorway;2010;23
+8;Fatal Accidents;City;2010;5
+8;Fatal Accidents;Countryside;2010;17
+8;Fatal Accidents;Motorway;2010;2
+9;Accidents with Slight Injuries;City;2010;1024
+9;Accidents with Slight Injuries;Countryside;2010;345
+9;Accidents with Slight Injuries;Motorway;2010;130
+9;Accidents with Serious Injuries;City;2010;278
+9;Accidents with Serious Injuries;Countryside;2010;129
+9;Accidents with Serious Injuries;Motorway;2010;22
+9;Fatal Accidents;City;2010;7
+9;Fatal Accidents;Countryside;2010;12
+9;Fatal Accidents;Motorway;2010;1
+10;Accidents with Slight Injuries;City;2010;872
+10;Accidents with Slight Injuries;Countryside;2010;297
+10;Accidents with Slight Injuries;Motorway;2010;137
+10;Accidents with Serious Injuries;City;2010;225
+10;Accidents with Serious Injuries;Countryside;2010;112
+10;Accidents with Serious Injuries;Motorway;2010;21
+10;Fatal Accidents;City;2010;11
+10;Fatal Accidents;Countryside;2010;16
+10;Fatal Accidents;Motorway;2010;3
+11;Accidents with Slight Injuries;City;2010;867
+11;Accidents with Slight Injuries;Countryside;2010;288
+11;Accidents with Slight Injuries;Motorway;2010;141
+11;Accidents with Serious Injuries;City;2010;220
+11;Accidents with Serious Injuries;Countryside;2010;77
+11;Accidents with Serious Injuries;Motorway;2010;25
+11;Fatal Accidents;City;2010;11
+11;Fatal Accidents;Countryside;2010;14
+11;Fatal Accidents;Motorway;2010;0
+12;Accidents with Slight Injuries;City;2010;657
+12;Accidents with Slight Injuries;Countryside;2010;299
+12;Accidents with Slight Injuries;Motorway;2010;137
+12;Accidents with Serious Injuries;City;2010;168
+12;Accidents with Serious Injuries;Countryside;2010;79
+12;Accidents with Serious Injuries;Motorway;2010;19
+12;Fatal Accidents;City;2010;11
+12;Fatal Accidents;Countryside;2010;17
+12;Fatal Accidents;Motorway;2010;2
+1;Accidents with Slight Injuries;City;2011;551
+1;Accidents with Slight Injuries;Countryside;2011;237
+1;Accidents with Slight Injuries;Motorway;2011;99
+1;Accidents with Serious Injuries;City;2011;142
+1;Accidents with Serious Injuries;Countryside;2011;70
+1;Accidents with Serious Injuries;Motorway;2011;21
+1;Fatal Accidents;City;2011;11
+1;Fatal Accidents;Countryside;2011;10
+1;Fatal Accidents;Motorway;2011;1
+2;Accidents with Slight Injuries;City;2011;579
+2;Accidents with Slight Injuries;Countryside;2011;197
+2;Accidents with Slight Injuries;Motorway;2011;104
+2;Accidents with Serious Injuries;City;2011;134
+2;Accidents with Serious Injuries;Countryside;2011;54
+2;Accidents with Serious Injuries;Motorway;2011;14
+2;Fatal Accidents;City;2011;7
+2;Fatal Accidents;Countryside;2011;12
+2;Fatal Accidents;Motorway;2011;1
+3;Accidents with Slight Injuries;City;2011;689
+3;Accidents with Slight Injuries;Countryside;2011;215
+3;Accidents with Slight Injuries;Motorway;2011;119
+3;Accidents with Serious Injuries;City;2011;180
+3;Accidents with Serious Injuries;Countryside;2011;61
+3;Accidents with Serious Injuries;Motorway;2011;22
+3;Fatal Accidents;City;2011;9
+3;Fatal Accidents;Countryside;2011;12
+3;Fatal Accidents;Motorway;2011;4
+4;Accidents with Slight Injuries;City;2011;934
+4;Accidents with Slight Injuries;Countryside;2011;281
+4;Accidents with Slight Injuries;Motorway;2011;102
+4;Accidents with Serious Injuries;City;2011;262
+4;Accidents with Serious Injuries;Countryside;2011;130
+4;Accidents with Serious Injuries;Motorway;2011;15
+4;Fatal Accidents;City;2011;11
+4;Fatal Accidents;Countryside;2011;20
+4;Fatal Accidents;Motorway;2011;3
+5;Accidents with Slight Injuries;City;2011;1078
+5;Accidents with Slight Injuries;Countryside;2011;332
+5;Accidents with Slight Injuries;Motorway;2011;123
+5;Accidents with Serious Injuries;City;2011;274
+5;Accidents with Serious Injuries;Countryside;2011;133
+5;Accidents with Serious Injuries;Motorway;2011;36
+5;Fatal Accidents;City;2011;12
+5;Fatal Accidents;Countryside;2011;21
+5;Fatal Accidents;Motorway;2011;1
+6;Accidents with Slight Injuries;City;2011;857
+6;Accidents with Slight Injuries;Countryside;2011;322
+6;Accidents with Slight Injuries;Motorway;2011;121
+6;Accidents with Serious Injuries;City;2011;253
+6;Accidents with Serious Injuries;Countryside;2011;154
+6;Accidents with Serious Injuries;Motorway;2011;21
+6;Fatal Accidents;City;2011;10
+6;Fatal Accidents;Countryside;2011;12
+6;Fatal Accidents;Motorway;2011;0
+7;Accidents with Slight Injuries;City;2011;757
+7;Accidents with Slight Injuries;Countryside;2011;329
+7;Accidents with Slight Injuries;Motorway;2011;115
+7;Accidents with Serious Injuries;City;2011;209
+7;Accidents with Serious Injuries;Countryside;2011;155
+7;Accidents with Serious Injuries;Motorway;2011;15
+7;Fatal Accidents;City;2011;9
+7;Fatal Accidents;Countryside;2011;11
+7;Fatal Accidents;Motorway;2011;3
+8;Accidents with Slight Injuries;City;2011;912
+8;Accidents with Slight Injuries;Countryside;2011;365
+8;Accidents with Slight Injuries;Motorway;2011;108
+8;Accidents with Serious Injuries;City;2011;244
+8;Accidents with Serious Injuries;Countryside;2011;156
+8;Accidents with Serious Injuries;Motorway;2011;23
+8;Fatal Accidents;City;2011;14
+8;Fatal Accidents;Countryside;2011;14
+8;Fatal Accidents;Motorway;2011;3
+9;Accidents with Slight Injuries;City;2011;1006
+9;Accidents with Slight Injuries;Countryside;2011;336
+9;Accidents with Slight Injuries;Motorway;2011;125
+9;Accidents with Serious Injuries;City;2011;272
+9;Accidents with Serious Injuries;Countryside;2011;144
+9;Accidents with Serious Injuries;Motorway;2011;17
+9;Fatal Accidents;City;2011;6
+9;Fatal Accidents;Countryside;2011;13
+9;Fatal Accidents;Motorway;2011;1
+10;Accidents with Slight Injuries;City;2011;805
+10;Accidents with Slight Injuries;Countryside;2011;297
+10;Accidents with Slight Injuries;Motorway;2011;138
+10;Accidents with Serious Injuries;City;2011;209
+10;Accidents with Serious Injuries;Countryside;2011;133
+10;Accidents with Serious Injuries;Motorway;2011;13
+10;Fatal Accidents;City;2011;21
+10;Fatal Accidents;Countryside;2011;8
+10;Fatal Accidents;Motorway;2011;0
+11;Accidents with Slight Injuries;City;2011;774
+11;Accidents with Slight Injuries;Countryside;2011;219
+11;Accidents with Slight Injuries;Motorway;2011;124
+11;Accidents with Serious Injuries;City;2011;189
+11;Accidents with Serious Injuries;Countryside;2011;71
+11;Accidents with Serious Injuries;Motorway;2011;23
+11;Fatal Accidents;City;2011;11
+11;Fatal Accidents;Countryside;2011;15
+11;Fatal Accidents;Motorway;2011;2
+12;Accidents with Slight Injuries;City;2011;790
+12;Accidents with Slight Injuries;Countryside;2011;278
+12;Accidents with Slight Injuries;Motorway;2011;150
+12;Accidents with Serious Injuries;City;2011;165
+12;Accidents with Serious Injuries;Countryside;2011;80
+12;Accidents with Serious Injuries;Motorway;2011;16
+12;Fatal Accidents;City;2011;11
+12;Fatal Accidents;Countryside;2011;11
+12;Fatal Accidents;Motorway;2011;2
+1;Accidents with Slight Injuries;City;2012;628
+1;Accidents with Slight Injuries;Countryside;2012;213
+1;Accidents with Slight Injuries;Motorway;2012;116
+1;Accidents with Serious Injuries;City;2012;171
+1;Accidents with Serious Injuries;Countryside;2012;48
+1;Accidents with Serious Injuries;Motorway;2012;13
+1;Fatal Accidents;City;2012;14
+1;Fatal Accidents;Countryside;2012;9
+1;Fatal Accidents;Motorway;2012;3
+2;Accidents with Slight Injuries;City;2012;487
+2;Accidents with Slight Injuries;Countryside;2012;228
+2;Accidents with Slight Injuries;Motorway;2012;110
+2;Accidents with Serious Injuries;City;2012;111
+2;Accidents with Serious Injuries;Countryside;2012;71
+2;Accidents with Serious Injuries;Motorway;2012;19
+2;Fatal Accidents;City;2012;9
+2;Fatal Accidents;Countryside;2012;4
+2;Fatal Accidents;Motorway;2012;3
+3;Accidents with Slight Injuries;City;2012;739
+3;Accidents with Slight Injuries;Countryside;2012;242
+3;Accidents with Slight Injuries;Motorway;2012;127
+3;Accidents with Serious Injuries;City;2012;195
+3;Accidents with Serious Injuries;Countryside;2012;104
+3;Accidents with Serious Injuries;Motorway;2012;13
+3;Fatal Accidents;City;2012;8
+3;Fatal Accidents;Countryside;2012;10
+3;Fatal Accidents;Motorway;2012;3
+4;Accidents with Slight Injuries;City;2012;640
+4;Accidents with Slight Injuries;Countryside;2012;231
+4;Accidents with Slight Injuries;Motorway;2012;117
+4;Accidents with Serious Injuries;City;2012;173
+4;Accidents with Serious Injuries;Countryside;2012;84
+4;Accidents with Serious Injuries;Motorway;2012;18
+4;Fatal Accidents;City;2012;8
+4;Fatal Accidents;Countryside;2012;9
+4;Fatal Accidents;Motorway;2012;4
+5;Accidents with Slight Injuries;City;2012;904
+5;Accidents with Slight Injuries;Countryside;2012;324
+5;Accidents with Slight Injuries;Motorway;2012;132
+5;Accidents with Serious Injuries;City;2012;254
+5;Accidents with Serious Injuries;Countryside;2012;125
+5;Accidents with Serious Injuries;Motorway;2012;15
+5;Fatal Accidents;City;2012;9
+5;Fatal Accidents;Countryside;2012;22
+5;Fatal Accidents;Motorway;2012;2
+6;Accidents with Slight Injuries;City;2012;962
+6;Accidents with Slight Injuries;Countryside;2012;373
+6;Accidents with Slight Injuries;Motorway;2012;128
+6;Accidents with Serious Injuries;City;2012;249
+6;Accidents with Serious Injuries;Countryside;2012;146
+6;Accidents with Serious Injuries;Motorway;2012;24
+6;Fatal Accidents;City;2012;11
+6;Fatal Accidents;Countryside;2012;8
+6;Fatal Accidents;Motorway;2012;3
+7;Accidents with Slight Injuries;City;2012;771
+7;Accidents with Slight Injuries;Countryside;2012;288
+7;Accidents with Slight Injuries;Motorway;2012;136
+7;Accidents with Serious Injuries;City;2012;229
+7;Accidents with Serious Injuries;Countryside;2012;158
+7;Accidents with Serious Injuries;Motorway;2012;23
+7;Fatal Accidents;City;2012;12
+7;Fatal Accidents;Countryside;2012;21
+7;Fatal Accidents;Motorway;2012;3
+8;Accidents with Slight Injuries;City;2012;939
+8;Accidents with Slight Injuries;Countryside;2012;380
+8;Accidents with Slight Injuries;Motorway;2012;135
+8;Accidents with Serious Injuries;City;2012;257
+8;Accidents with Serious Injuries;Countryside;2012;176
+8;Accidents with Serious Injuries;Motorway;2012;26
+8;Fatal Accidents;City;2012;7
+8;Fatal Accidents;Countryside;2012;16
+8;Fatal Accidents;Motorway;2012;5
+9;Accidents with Slight Injuries;City;2012;849
+9;Accidents with Slight Injuries;Countryside;2012;323
+9;Accidents with Slight Injuries;Motorway;2012;153
+9;Accidents with Serious Injuries;City;2012;229
+9;Accidents with Serious Injuries;Countryside;2012;103
+9;Accidents with Serious Injuries;Motorway;2012;17
+9;Fatal Accidents;City;2012;8
+9;Fatal Accidents;Countryside;2012;15
+9;Fatal Accidents;Motorway;2012;0
+10;Accidents with Slight Injuries;City;2012;779
+10;Accidents with Slight Injuries;Countryside;2012;303
+10;Accidents with Slight Injuries;Motorway;2012;160
+10;Accidents with Serious Injuries;City;2012;232
+10;Accidents with Serious Injuries;Countryside;2012;100
+10;Accidents with Serious Injuries;Motorway;2012;20
+10;Fatal Accidents;City;2012;11
+10;Fatal Accidents;Countryside;2012;8
+10;Fatal Accidents;Motorway;2012;1
+11;Accidents with Slight Injuries;City;2012;783
+11;Accidents with Slight Injuries;Countryside;2012;243
+11;Accidents with Slight Injuries;Motorway;2012;140
+11;Accidents with Serious Injuries;City;2012;187
+11;Accidents with Serious Injuries;Countryside;2012;64
+11;Accidents with Serious Injuries;Motorway;2012;17
+11;Fatal Accidents;City;2012;13
+11;Fatal Accidents;Countryside;2012;6
+11;Fatal Accidents;Motorway;2012;4
+12;Accidents with Slight Injuries;City;2012;554
+12;Accidents with Slight Injuries;Countryside;2012;226
+12;Accidents with Slight Injuries;Motorway;2012;117
+12;Accidents with Serious Injuries;City;2012;128
+12;Accidents with Serious Injuries;Countryside;2012;58
+12;Accidents with Serious Injuries;Motorway;2012;10
+12;Fatal Accidents;City;2012;14
+12;Fatal Accidents;Countryside;2012;15
+12;Fatal Accidents;Motorway;2012;3
